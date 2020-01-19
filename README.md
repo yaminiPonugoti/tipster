@@ -16,6 +16,6 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![TipsterGif](tipster/tippyGif.gif)
+![TipsterGif](tippyGif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
